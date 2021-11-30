@@ -1,0 +1,50 @@
+body {
+    background-color: thistle;
+}
+
+.recipes-list,
+.heading {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading {
+    background-color: burlywood;
+}
+
+.recipe-item {
+    background-color: rgb(145, 202, 38);
+    font-size: 24px;
+}
+
+.image {
+    width: 300px;
+    height: auto;
+}
+
+.description {
+    text-align: left;
+    background-color: turquoise;
+}
+
+.ingre-list {
+    background-color: bisque;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.steps {
+    background-color: cadetblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.links {
+    text-align: center;
+    background-color: chocolate;
+}
+
+.ingre-head {
+    font-size: 24px;
+    font-weight: 600;
+}
